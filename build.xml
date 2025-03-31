@@ -5,7 +5,7 @@
 		</fileset>
 	</path>
 
-//Add changes
+//Documentation added
 	
 	<target name="clean">
 		<delete dir="build" />
