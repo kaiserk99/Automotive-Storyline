@@ -5,7 +5,6 @@
 		</fileset>
 	</path>
 
-//Minor Correction
 	
 	<target name="clean">
 		<delete dir="build" />
